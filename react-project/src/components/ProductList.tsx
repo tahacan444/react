@@ -32,7 +32,7 @@ function ProductList() {
         <thead>
           <tr>
             <th>Ürün Adı</th>
-            <th>Stok</th>
+            <th>Stok Miktarı</th>
             <th>Eşik</th>
           </tr>
         </thead>
